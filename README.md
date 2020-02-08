@@ -7,6 +7,4 @@ After the analysis of precipation and temperature variance between June and Dece
 
 It is highly recommended that further analysis, comparable to the one conducted, be done for precipitation and temperature data throughout every month for further strategic decision making. 
 
-
-
-
+![]https://github.com/DaterDan/surfs_up/blob/master/june_precipitation.png
