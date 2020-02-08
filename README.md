@@ -1,4 +1,7 @@
-Oahu Surf Shop Analysis
+# Oahu Surf Shop Analysis
+
+### Precipitation & Temperature 
+
 
 After the analysis of precipation and temperature variance between June and December, it has been determined that December has significantly less precipitation with an average temperature of ~70 degrees. June can be expected to have a higher percentage of days that produces precipitation and we can expect less volume of consumers during this month. 
 
